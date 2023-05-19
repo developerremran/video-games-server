@@ -1,0 +1,91 @@
+[
+    { 
+      "id" :"1",
+      "seller_name": "GameStop",
+      "toy_name": "Funko Pop! Overwatch Tracer",
+      "sub_category": "Action Figures",
+      "price": 14.99,
+      "quantity": 10,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    { 
+      "id" :"2",
+      "seller_name": "Toys \"R\" Us",
+      "toy_name": "LEGO Super Mario Starter Course",
+      "sub_category": "Building Sets",
+      "price": 59.99,
+      "quantity": 5,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    {
+      "id" :"3",
+      "seller_name": "Amazon",
+      "toy_name": "Pokémon TCG: Champion's Path Elite Trainer Box",
+      "sub_category": "Trading Card Games",
+      "price": 39.99,
+      "quantity": 20,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    {
+      "id" :"4",
+      "seller_name": "Walmart",
+      "toy_name": "Minecraft Creeper Plush Toy",
+      "sub_category": "Plush Toys",
+      "price": 12.99,
+      "quantity": 8,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    { "id" :"5",
+      "seller_name": "Target",
+      "toy_name": "NERF Fortnite AR-L Elite Dart Blaster",
+      "sub_category": "Blaster Guns",
+      "price": 29.99,
+      "quantity": 12,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    {
+      "id" :"6",
+      "seller_name": "Best Buy",
+      "toy_name": "PlayStation 5 DualSense Wireless Controller",
+      "sub_category": "Gaming Accessories",
+      "price": 69.99,
+      "quantity": 3,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    {
+      "id" :"7",
+      "seller_name": "GameStop",
+      "toy_name": "Figma The Legend of Zelda: Twilight Princess Link",
+      "sub_category": "Action Figures",
+      "price": 79.99,
+      "quantity": 2,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    {
+      "id" :"8",
+      "seller_name": "Toys \"R\" Us",
+      "toy_name": "LEGO Marvel Super Heroes Iron Man Helmet",
+      "sub_category": "Building Sets",
+      "price": 59.99,
+      "quantity": 4,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    {
+      "id" :"9",
+      "seller_name": "Amazon",
+      "toy_name": "Super Mario Chess Collector's Edition",
+      "sub_category": "Board Games",
+      "price": 49.99,
+      "quantity": 7,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    },
+    {
+      "id" :"10",
+      "seller_name": "Walmart",
+      "toy_name": "Fortnite Llama Loot Piñata",
+      "sub_category": "Collectibles",
+      "price": 19.99,
+      "quantity": 15,
+      "image_url": "https://i.ibb.co/sm5cRry/g3.jpg"
+    }
+]
